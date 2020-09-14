@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cadena-sistema-notas/static/css/main.5924ee69.chunk.css",
+    "main.js": "/cadena-sistema-notas/static/js/main.0d9ca053.chunk.js",
+    "main.js.map": "/cadena-sistema-notas/static/js/main.0d9ca053.chunk.js.map",
+    "runtime-main.js": "/cadena-sistema-notas/static/js/runtime-main.31a48845.js",
+    "runtime-main.js.map": "/cadena-sistema-notas/static/js/runtime-main.31a48845.js.map",
+    "static/js/2.1570dc8f.chunk.js": "/cadena-sistema-notas/static/js/2.1570dc8f.chunk.js",
+    "static/js/2.1570dc8f.chunk.js.map": "/cadena-sistema-notas/static/js/2.1570dc8f.chunk.js.map",
+    "index.html": "/cadena-sistema-notas/index.html",
+    "precache-manifest.46bc7bf1138e63b796fd6639fc272586.js": "/cadena-sistema-notas/precache-manifest.46bc7bf1138e63b796fd6639fc272586.js",
+    "service-worker.js": "/cadena-sistema-notas/service-worker.js",
+    "static/css/main.5924ee69.chunk.css.map": "/cadena-sistema-notas/static/css/main.5924ee69.chunk.css.map",
+    "static/js/2.1570dc8f.chunk.js.LICENSE.txt": "/cadena-sistema-notas/static/js/2.1570dc8f.chunk.js.LICENSE.txt",
+    "static/media/cadenaAlogo.png": "/cadena-sistema-notas/static/media/cadenaAlogo.51be118b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31a48845.js",
+    "static/js/2.1570dc8f.chunk.js",
+    "static/css/main.5924ee69.chunk.css",
+    "static/js/main.0d9ca053.chunk.js"
+  ]
+}

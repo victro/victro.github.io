@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5924ee69.chunk.css",
+    "main.js": "/static/js/main.f3cab917.chunk.js",
+    "main.js.map": "/static/js/main.f3cab917.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8dc0443e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8dc0443e.js.map",
+    "static/js/2.28b42bbc.chunk.js": "/static/js/2.28b42bbc.chunk.js",
+    "static/js/2.28b42bbc.chunk.js.map": "/static/js/2.28b42bbc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7bb6dab146f5f181581868ddcc8254e3.js": "/precache-manifest.7bb6dab146f5f181581868ddcc8254e3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5924ee69.chunk.css.map": "/static/css/main.5924ee69.chunk.css.map",
+    "static/js/2.28b42bbc.chunk.js.LICENSE.txt": "/static/js/2.28b42bbc.chunk.js.LICENSE.txt",
+    "static/media/cadenaAlogo.png": "/static/media/cadenaAlogo.51be118b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dc0443e.js",
+    "static/js/2.28b42bbc.chunk.js",
+    "static/css/main.5924ee69.chunk.css",
+    "static/js/main.f3cab917.chunk.js"
+  ]
+}
